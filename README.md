@@ -27,6 +27,7 @@
 | [2235-add-two-integers](https://github.com/ShreyasBile/leetcode_questions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ShreyasBile/leetcode_questions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/ShreyasBile/leetcode_questions/tree/main/2469-convert-the-temperature/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/ShreyasBile/leetcode_questions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/ShreyasBile/leetcode_questions/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -85,4 +86,8 @@
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/ShreyasBile/leetcode_questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/ShreyasBile/leetcode_questions/tree/main/0441-arranging-coins/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2485-find-the-pivot-integer](https://github.com/ShreyasBile/leetcode_questions/tree/main/2485-find-the-pivot-integer/) | Easy |
 <!---LeetCode Topics End-->
