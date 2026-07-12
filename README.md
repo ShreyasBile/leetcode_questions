@@ -30,5 +30,10 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/ShreyasBile/leetcode_questions/tree/main/0191-number-of-1-bits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyasBile/leetcode_questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/ShreyasBile/leetcode_questions/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
