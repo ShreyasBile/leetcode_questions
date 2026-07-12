@@ -7,6 +7,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/ShreyasBile/leetcode_questions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/ShreyasBile/leetcode_questions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0263-ugly-number/) | Easy |
@@ -65,4 +66,12 @@
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0202-happy-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
