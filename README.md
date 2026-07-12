@@ -10,6 +10,7 @@
 | [0231-power-of-two](https://github.com/ShreyasBile/leetcode_questions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/ShreyasBile/leetcode_questions/tree/main/0258-add-digits/) | Easy |
 | [0342-power-of-four](https://github.com/ShreyasBile/leetcode_questions/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShreyasBile/leetcode_questions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyasBile/leetcode_questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyasBile/leetcode_questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -49,4 +50,13 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/ShreyasBile/leetcode_questions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/ShreyasBile/leetcode_questions/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
