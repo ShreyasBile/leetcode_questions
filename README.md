@@ -12,4 +12,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyasBile/leetcode_questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/ShreyasBile/leetcode_questions/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/ShreyasBile/leetcode_questions/tree/main/2469-convert-the-temperature/) | Easy |
 <!---LeetCode Topics End-->
