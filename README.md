@@ -39,6 +39,7 @@
 | [0476-number-complement](https://github.com/ShreyasBile/leetcode_questions/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/ShreyasBile/leetcode_questions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyasBile/leetcode_questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
