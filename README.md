@@ -13,6 +13,7 @@
 | [0263-ugly-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/ShreyasBile/leetcode_questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ShreyasBile/leetcode_questions/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/ShreyasBile/leetcode_questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -75,4 +76,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0202-happy-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/ShreyasBile/leetcode_questions/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
