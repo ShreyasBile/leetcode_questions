@@ -7,6 +7,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/ShreyasBile/leetcode_questions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/ShreyasBile/leetcode_questions/tree/main/0258-add-digits/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShreyasBile/leetcode_questions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyasBile/leetcode_questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -31,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/ShreyasBile/leetcode_questions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/ShreyasBile/leetcode_questions/tree/main/0231-power-of-two/) | Easy |
 | [0476-number-complement](https://github.com/ShreyasBile/leetcode_questions/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/ShreyasBile/leetcode_questions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyasBile/leetcode_questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -38,4 +40,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/ShreyasBile/leetcode_questions/tree/main/0191-number-of-1-bits/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/ShreyasBile/leetcode_questions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
