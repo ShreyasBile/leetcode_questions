@@ -29,6 +29,7 @@
 | [2469-convert-the-temperature](https://github.com/ShreyasBile/leetcode_questions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/ShreyasBile/leetcode_questions/tree/main/2652-sum-multiples/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3099-harshad-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/3099-harshad-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
