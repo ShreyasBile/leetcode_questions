@@ -9,6 +9,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/ShreyasBile/leetcode_questions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/ShreyasBile/leetcode_questions/tree/main/0258-add-digits/) | Easy |
+| [0326-power-of-three](https://github.com/ShreyasBile/leetcode_questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ShreyasBile/leetcode_questions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/ShreyasBile/leetcode_questions/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/ShreyasBile/leetcode_questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ShreyasBile/leetcode_questions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
