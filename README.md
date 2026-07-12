@@ -14,6 +14,7 @@
 | [0326-power-of-three](https://github.com/ShreyasBile/leetcode_questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ShreyasBile/leetcode_questions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ShreyasBile/leetcode_questions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/ShreyasBile/leetcode_questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/ShreyasBile/leetcode_questions/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/0509-fibonacci-number/) | Easy |
@@ -41,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ShreyasBile/leetcode_questions/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/ShreyasBile/leetcode_questions/tree/main/0412-fizz-buzz/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2485-find-the-pivot-integer](https://github.com/ShreyasBile/leetcode_questions/tree/main/2485-find-the-pivot-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/ShreyasBile/leetcode_questions/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
