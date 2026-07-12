@@ -31,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/ShreyasBile/leetcode_questions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0476-number-complement](https://github.com/ShreyasBile/leetcode_questions/tree/main/0476-number-complement/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyasBile/leetcode_questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
