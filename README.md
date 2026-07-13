@@ -59,6 +59,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyasBile/leetcode_questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/ShreyasBile/leetcode_questions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2595-number-of-even-and-odd-bits](https://github.com/ShreyasBile/leetcode_questions/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
