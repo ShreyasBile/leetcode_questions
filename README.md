@@ -23,6 +23,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShreyasBile/leetcode_questions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyasBile/leetcode_questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyasBile/leetcode_questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/ShreyasBile/leetcode_questions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShreyasBile/leetcode_questions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/ShreyasBile/leetcode_questions/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/ShreyasBile/leetcode_questions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -56,6 +57,7 @@
 | [0868-binary-gap](https://github.com/ShreyasBile/leetcode_questions/tree/main/0868-binary-gap/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/ShreyasBile/leetcode_questions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyasBile/leetcode_questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/ShreyasBile/leetcode_questions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
