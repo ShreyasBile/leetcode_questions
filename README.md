@@ -34,6 +34,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/ShreyasBile/leetcode_questions/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/ShreyasBile/leetcode_questions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/ShreyasBile/leetcode_questions/tree/main/3099-harshad-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
